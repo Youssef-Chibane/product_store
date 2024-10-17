@@ -1,6 +1,7 @@
 <h1 align="center">Full Stack Product Store</h1>
 
-[![Watch the video]()](https://drive.google.com/file/d/1sxVJNWrmAhaZsQVMCWpH9ioiaiqaZMmm/view)
+
+https://github.com/user-attachments/assets/95e6fd4d-7a08-4f97-9cd9-a517bfbbb5e7
 
 ### Setup .env file
 
