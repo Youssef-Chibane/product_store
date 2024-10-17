@@ -1,6 +1,6 @@
 <h1 align="center">Full Stack Product Store</h1>
 
-![Demo App](/frontend/public/ Portfolio-Project-Demo.mp4)
+[![Watch the video]()](https://drive.google.com/file/d/1sxVJNWrmAhaZsQVMCWpH9ioiaiqaZMmm/view)
 
 ### Setup .env file
 
